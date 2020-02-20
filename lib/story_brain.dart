@@ -53,7 +53,7 @@ List<Story> _storyData = [
   }
   
 
-  int nextStory(int choiceNumber){
+  void nextStory(int choiceNumber){
 
     List<List<int>> _storyPlan = List<List<int>>();
     
